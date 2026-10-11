@@ -5,8 +5,6 @@ Implemented a reliable data transfer protocol over an unreliable network emulato
 ## Overview
 
 This project implements core networking protocols to ensure reliable communication over unreliable channels.
-Documentation Link : https://docs.google.com/document/d/1Vq_qRt16n_eK3HtO6oUAW2DhnCU6kuqgrhv0uneY-T8/edit?usp=sharing
-
 ## Features
 
 - Stop-and-Wait protocol baseline
